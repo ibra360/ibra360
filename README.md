@@ -10,7 +10,7 @@ I started my graduation journey from UBIT,KU in 2017.I am working on Web3 Apps o
 - 🔭 I’m currently working on Web3 Apps or Dapps.
 - 🌱 I’m currently learning Subgraph + Ether JS + Advanve React.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style={{ marginBottom="-6px"}}> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" marginBottom="-6px"> Connect with me
 
 <p align="center">
 	<a href="mailto:a.ebrahym360@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
