@@ -1,6 +1,6 @@
 <h1 align="center">Hey! This is Abdullah Ibrahim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3500&center=true&width=500&height=50&vCenter=true&lines=Graduated+Software+Engineer+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Currently+working+on+Web3+Apps+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)">
+<a href="/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3500&center=true&width=500&height=50&vCenter=true&lines=Graduated+Software+Engineer+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Currently+working+on+Web3+Apps+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
 </a>
 
 </p>
@@ -10,7 +10,7 @@ I started my graduation journey from UBIT,KU in 2017.I am working on Web3 Apps o
 - 🔭 I’m currently working on Web3 Apps or Dapps.
 - 🌱 I’m currently learning Subgraph + Ether JS + Advanve React.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" marginTop="10px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style={{ marginBottom="-6px"}}> Connect with me
 
 <p align="center">
 	<a href="mailto:a.ebrahym360@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
