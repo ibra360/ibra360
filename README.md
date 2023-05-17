@@ -5,10 +5,11 @@
 
 </p>
 
-I started my graduation journey from UBIT,KU in 2017.I am working on Web3 Apps or Dapps for the last 1.5 years💻.I have develop MERN Stack Applications, although my major interest is in front end development. I would like to summarize my self as a motivated MERN Stack developer and supportive team member, looking forward to persuade my career as JavaScript developer✨
+I am a graduated Software Engineer working as a Frontend developer with experience of 3 years in it💻.
+I have develop MERN Stack Applications, although my major interest is in front end development. I would like to summarize my self as a motivated Frontend developer developer and supportive team member, looking forward to persuade my career as JavaScript developer✨
 
-- 🔭 I’m currently working on Web3 Apps or Dapps.
-- 🌱 I’m currently learning Subgraph + Ether JS + Advanve React.
+- 🔭 I have worked with Web3 Apps or Dapps too.
+- 🌱 I have strong command with functional and responsive web apps.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" marginBottom="-6px"> Connect with me
 
