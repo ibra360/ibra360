@@ -27,17 +27,5 @@ I have develop MERN Stack Applications, although my major interest is in front e
 - 📌 MONGODB/FIREBASE
 - 📌 HEROKU/FIREBASE/NETLIFY/GITHUB PAGES
 
-## 📊 Github Stats
-
-  <br/>
-  <p align="center">
-    <img alt="ibra360 Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibra360&show_icons=true&count_private=true&theme=algolia" height="190px"/>
- <br/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibra360&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ibra360" height="190px"/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  </p>
 
 ### Thats All folks🙌
